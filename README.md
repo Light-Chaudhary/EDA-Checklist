@@ -23,16 +23,13 @@ This project performs a comprehensive exploratory data analysis on the Titanic d
 5. **Bivariate Analysis**  
    Examine survival rates with respect to gender, passenger class, embarkation port, age, and fare.
 
-6. **Multivariate Analysis**  
-   Analyze survival patterns based on combinations of gender, class, and age, including crosstabulations.
-
-7. **Correlation Analysis**  
+6. **Correlation Analysis**  
    Compute and visualize correlations between numeric features.
 
-8. **Feature Engineering**  
+7. **Feature Engineering**  
    Create new features such as `is_child` (age < 12) and `family_size` (siblings + parents + self) to assess their impact on survival.
 
-9. **Export**  
+8. **Export**  
    Save the cleaned dataset and key visualizations for future use.
 
 ---
